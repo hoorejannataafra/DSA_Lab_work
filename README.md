@@ -64,7 +64,7 @@ The main purpose of this repository is to:
 * Build a collection of programming projects and solutions
 
 Author
-**Hore Jannat Afra**
+
 Name: Hoor E Jannat Afra
 
 Department: Computer Science & Engineering
