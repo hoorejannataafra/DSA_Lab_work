@@ -65,4 +65,8 @@ The main purpose of this repository is to:
 
 Author
 **Hore Jannat Afra**
-First Year CSE Student
+Name: Hoor E Jannat Afra
+
+Department: Computer Science & Engineering
+
+Repository: DSA_Lab_work
