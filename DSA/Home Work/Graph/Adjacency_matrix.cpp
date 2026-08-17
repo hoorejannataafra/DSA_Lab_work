@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+    cout << "Enter number of vertices: ";
+    cin >> n;
+    int graph[10][10];
+    cout << "Enter adjacency matrix:\n";
+    for (int i=0;i<n;i++)
+    {
+        for (int j=0;j<n;j++){
+            cin >> graph[i][j];
+        }
+    }
+
+    cout << "Graph:\n";
+    for (int i=0;i<n;i++)
+    {
+        for (int j=0;j<n;j++){
+            cout << graph[i][j] << " ";
+        }
+
+        cout << endl;
+    }
+    return 0;
+}
